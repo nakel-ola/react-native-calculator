@@ -154,3 +154,7 @@ const styles = StyleSheet.create({
     color: "#737373",
   },
 });
+
+// https://jam.dev/c/f7122fe2-bd25-413d-990b-e5f59b495995 iphone
+// https://jam.dev/c/f10d7931-312a-45de-84a9-e4db0ede779c
+// https://jam.dev/c/9c69d44c-c775-4448-ad54-7389fa9cbfad
